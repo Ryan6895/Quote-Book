@@ -1,0 +1,13 @@
+.quotes {
+  background-color: #CCCCCC;
+  margin: 10px;
+  border-radius: 8px;
+  color: black;
+  padding: 2px;
+}
+li {
+  list-style: none;
+}
+.container {
+  width: 500px;
+}
